@@ -1,13 +1,13 @@
-package com.cloud.gdscideacloud;
+package com.host.aws_practice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GdscIdeacloudApplicationTests {
+class AwsPracticeApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
